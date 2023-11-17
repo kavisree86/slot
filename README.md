@@ -98,7 +98,7 @@ Execute the program using runserver command.
         </tr>
     </table>
 <head>
-    <title>SLOT TIME TABLE - jeevanesh (23013802)</title>
+    <title>SLOT TIME TABLE - KAVISREE (23011302)</title>
     <style>
         table {
             border-collapse: collapse;
@@ -163,7 +163,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-<img width="960" alt="timetable" src="https://github.com/kavisree86/slot/assets/145759687/2666edde-6d76-499e-9ee9-7642635b6571">
+
+![Screenshot (8)](https://github.com/kavisree86/slot/assets/145759687/9baaf62c-dda1-45bf-a211-0145dae23396)
 
 
 
